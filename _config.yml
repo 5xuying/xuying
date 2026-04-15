@@ -4,8 +4,8 @@ plugins:
   - jekyll-regex-replace
 
 # SEO相关信息
-title: 起舞弄虚影-xuying的个人博客
-description: 起舞弄虚影-xuying的个人博客
+title: xuying的个人博客
+description: 起舞弄虚影——记录技术、阅读与生活
 keywords: XuYing,TMaize,Blog,Java,Html,JavaScript
 author: xuying
 footerText: 'Copyright © 2025'
