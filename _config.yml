@@ -6,9 +6,9 @@ plugins:
 # SEO相关信息
 title: XuYing Blog
 description: 起舞弄虚影-xuying的个人博客
-keywords: TMaize,Blog,Java,Html,JavaScript
-author: TMaize
-footerText: 'Copyright © 2016 皖ICP备16016174号'
+keywords: XuYing,TMaize,Blog,Java,Html,JavaScript
+author: xuying
+footerText: 'Copyright © 2025'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
